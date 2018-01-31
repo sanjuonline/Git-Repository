@@ -9,15 +9,9 @@ package testgit;
  *
  * @author Lenovo
  */
-public class TestGit {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello git!");
-        Sample s = new Sample();
-        s.display();
+public class Sample {
+    public void display()
+    {
+        System.out.println("I am from sample.");
     }
-    
 }
