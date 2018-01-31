@@ -14,4 +14,8 @@ public class Sample {
     {
         System.out.println("I am from sample.");
     }
+    public void message()
+    {
+        System.out.println("new message for second revision");
+    }
 }
