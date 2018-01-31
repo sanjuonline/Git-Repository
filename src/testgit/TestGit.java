@@ -18,6 +18,7 @@ public class TestGit {
         System.out.println("Hello git!");
         Sample s = new Sample();
         s.display();
+        s.message();
     }
     
 }
